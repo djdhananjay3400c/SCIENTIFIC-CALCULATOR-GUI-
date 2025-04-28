@@ -1,62 +1,42 @@
-🧠 SCIENTIFIC-CALCULATOR-GUI 🖥️🐢
-A sleek, functional, and creative Scientific Calculator built with Python Turtle!
+GraphiCalc
+A Scientific Calculator with a Graphical Twist — Built using Python's Turtle Library
 
-✨ About the Project
-SCIENTIFIC-CALCULATOR-GUI is a modern spin on traditional calculators, designed using the Turtle graphics library in Python.
-It offers not just basic arithmetic operations, but also powerful scientific functions — all wrapped inside a colorful, interactive graphical interface.
-
-Whether you're a coding enthusiast, a math lover, or someone who enjoys building creative GUI projects, this calculator is built for you!
+✨ About GraphiCalc
+GraphiCalc is a modern scientific calculator that brings together mathematical power and visual creativity.
+Built using Python's Turtle graphics library, it offers a unique and interactive GUI for performing basic to advanced calculations — all while keeping the design visually appealing and lightweight.
+Whether you are a student, developer, or just a Python enthusiast, GraphiCalc is a fun and functional tool that blends calculation precision with graphical creativity!
 
 🚀 Features
-🎯 Basic Operations: Addition, Subtraction, Multiplication, Division
+🧮 Perform Scientific Calculations (Addition, Subtraction, Multiplication, Division, Square, Square Root, and more!)
+🎨 Creative GUI using Turtle Graphics
+🐢 Lightweight and Fast — No heavy frameworks, pure Python!
+📱 Responsive Design — Easy to use with mouse clicks
+🔥 Intuitive Button Layout
+🎯 Keyboard-free — Fully GUI-driven input
 
-🧩 Scientific Functions:
-➔ Trigonometric (sin, cos, tan)
-➔ Logarithmic (log, ln)
-➔ Exponential and Power calculations
-
-🎨 Custom Turtle-based GUI:
-➔ Buttons, displays, and layout crafted with turtle drawing.
-🖌️ Smooth, colorful design and responsive clicks
-
-🛠️ Lightweight — No heavy frameworks required!
-
-🛠️ Built With
+🛠️ Technologies Used
 Python 3.x
-Turtle Library (Standard with Python)
+Turtle Library (Standard Python Module)
 
-📷 Preview
-(Imagine a beautiful calculator drawn with turtle shapes, colorful buttons, and a smart layout)
-(Optional: I can also help you create a sample preview image if you want!)
+📋 How It Works
+Turtle is used to design buttons and display numbers graphically.
+Clicking the buttons triggers different math operations in the backend.
+Result is displayed on the Turtle screen itself, making it a complete visual calculator experience.
 
-🔥 Getting Started
-Prerequisites
-Install Python 3.x (if not installed)
+💻 How to Run Locally
+Make sure you have Python 3.x installed.
+Clone or download the repository.
+Install any missing modules (although Turtle comes pre-installed with Python).
+Run the script:
+python graphiCalc.py
 
-How to Run
-python scientific_calculator_gui.py
+Future Enhancements
+Add scientific functions like trigonometric operations (sin, cos, tan).
+Improve the graphical styling with themes.
+Introduce keyboard support for faster calculations.
+Add error handling for invalid operations.
 
-🧠 How It Works
-Turtle Canvas is used to draw the calculator body and buttons.
-Mouse Click Events are captured to detect which button is pressed.
-Mathematical Functions from Python's math library are triggered based on user input.
-Display area is updated dynamically after each calculation.
 
-💡 Why Turtle?
-While Turtle is often used for fun drawings, this project redefines its potential — showing that even real-world functional apps like calculators can be built with it!
-It’s a fun, visual way to learn event-driven programming, GUI layout design, and math handling all at once.
-
-🌟 Future Enhancements
-Memory functions (M+, M-, MR, MC)
-Dark mode GUI
-Keyboard input support (not just mouse clicks)
-
-🤝 Contributing
-Want to add features or upgrade the GUI? Feel free to fork, enhance, and open pull requests!
-Let’s build something beautiful together.
-
-📜 License
-This project is open-source and free to use for learning and experimentation!
 
 "Creativity is intelligence having fun."
 — Albert Einstein
